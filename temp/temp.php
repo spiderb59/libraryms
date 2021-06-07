@@ -1,3 +1,3 @@
 <?php 
-echo md5("ranjan");
+echo md5("string");
  ?>
